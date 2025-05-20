@@ -19,7 +19,7 @@ import re
 import os
 import datasets
 import sys
-sys.path.append('/home/u2020201469/NL2SQL/CTE_reasoner/SLM_module/post-training/verl/')
+sys.path.append('../verl/')
 from verl.utils.hdfs_io import copy, makedirs
 import argparse
 
