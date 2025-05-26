@@ -16,7 +16,7 @@ RewardSQL enhances Text-to-SQL generation through a comprehensive process-level 
 We provide all necessary datasets in our Google Drive repository.
 
 ### Download Datasets
-- [RewardSQL-Datasets](https://drive.google.com/file/d/1yJAVxj3oWp02Sj8WP2LRD0_NjoSFJWUJ/view?usp=sharing): Contains all training and testing data
+- [RewardSQL-Datasets](https://drive.google.com/file/d/1BKuGOEeuv8V0KGVCfnh195sKtIF2o_Nh/view?usp=drive_link): Contains all training and testing data
   - Bird training data
   - Bird dev data
   - Spider test data
